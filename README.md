@@ -1,4 +1,4 @@
-# Sorting-Algorithms-C-
+# Sorting-Algorithms
  A program of sorting algorithms that tests the performance for operations on vectors of integers of growing sizes, for example: 10, 100, 1000, 5000, 10000, 25000, etc.
  1) BubbleSort
  2) InsertionSort
