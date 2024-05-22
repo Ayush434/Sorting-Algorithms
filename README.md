@@ -8,7 +8,7 @@
  6) ShellSort
 
 
-#Execution
+# Execution
 Your program, called sorter, will read two required arguments and one optional argument from the command
 line
 1) sort type as a string of characters, for instance, BubbleSort
